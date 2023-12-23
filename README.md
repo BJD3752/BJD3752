@@ -3,7 +3,7 @@
 - ✨ Senior Data Analyst (Lowes), I have 5+ Years of experience As Data Analyst(Ex-IBM,Cisco).
 - 🌱 Skills: Python, R , Sql, Alteryx, APT , Tableau, Machine learning, Excel, A/B testing, Business, Finance.
 - 💞️ I’m looking to oppertunity on Data science field.
-- 📫 How to reach me : +91-8763802432, +91-7624813332
+- 📫 How to reach me : +91-8763802432
 
 <!---
 BJD3752/BJD3752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
